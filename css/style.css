@@ -5,3 +5,7 @@
     display: inline-block;
     justify-content: center;
 }
+
+#profilphoto {
+    border-radius: 50px/20px
+}
